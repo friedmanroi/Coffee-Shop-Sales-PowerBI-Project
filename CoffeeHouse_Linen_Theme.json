@@ -1,0 +1,203 @@
+{
+  "name": "CoffeeHouse_Linen",
+  "dataColors": [
+    "#5C3D2E",
+    "#B0884F",
+    "#9A7253",
+    "#7A5240",
+    "#BFA07C",
+    "#D9C2A0",
+    "#8A5A37",
+    "#3F2A20"
+  ],
+  "background": "#F6EDDB",
+  "foreground": "#3D2A22",
+  "tableAccent": "#5C3D2E",
+  "good": "#7A8A5B",
+  "neutral": "#BFA07C",
+  "bad": "#A35A3E",
+  "minimum": "#F2E7D2",
+  "center": "#BFA07C",
+  "maximum": "#5C3D2E",
+  "null": "#D9C2A0",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Georgia",
+      "fontSize": 30,
+      "color": "#5C3D2E"
+    },
+    "title": {
+      "fontFace": "Georgia",
+      "fontSize": 14,
+      "color": "#3D2A22"
+    },
+    "header": {
+      "fontFace": "Georgia",
+      "fontSize": 12,
+      "color": "#3D2A22"
+    },
+    "label": {
+      "fontFace": "Georgia",
+      "fontSize": 10,
+      "color": "#6B4A3B"
+    }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F6EDDB"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#3D2A22"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 13
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F2E7D2"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": false
+          }
+        ],
+        "legend": [
+          {
+            "show": true,
+            "labelColor": {
+              "solid": {
+                "color": "#6B4A3B"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 10
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#6B4A3B"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 10
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#6B4A3B"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 10
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#5C3D2E"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#6B4A3B"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F2E7D2"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#3D2A22"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 11
+          }
+        ],
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#3D2A22"
+              }
+            },
+            "fontFamily": "Georgia",
+            "fontSize": 10
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#F2E7D2"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
