@@ -2,6 +2,23 @@
 
 ## Project 4 - Analyze Data with Power BI
 
+
+<img width="1394" height="747" alt="01_Cover" src="https://github.com/user-attachments/assets/974036c5-aa3a-4af4-9c52-3b800e89a455" />
+
+
+<img width="1397" height="742" alt="02_Sales_Summary" src="https://github.com/user-attachments/assets/8a1de1ca-f86c-46fa-80f1-ee91c0b9f8dc" />
+
+
+<img width="1401" height="751" alt="03_Product_Performance" src="https://github.com/user-attachments/assets/19a5b2b2-4974-43f0-99b4-93c9b85087de" />
+
+
+<img width="1397" height="747" alt="04_Stores_Performance" src="https://github.com/user-attachments/assets/906430f2-3851-4740-9abf-9cd05b3ad7af" />
+
+
+<img width="1406" height="753" alt="05_Time_Insights" src="https://github.com/user-attachments/assets/ece186c8-37f5-491d-9d97-16cc03d971b9" />
+
+
+
 ---
 
 ### פרטי הפרויקט / Project Info
